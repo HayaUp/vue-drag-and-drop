@@ -1,6 +1,6 @@
 # vue-drag-and-drop
 
-> A Vue.js project
+> Vue.js、ドラッグ＆ドロップのコンポーネントの実験
 
 ## Build Setup
 
