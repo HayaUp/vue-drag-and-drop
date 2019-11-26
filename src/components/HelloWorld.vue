@@ -18,7 +18,7 @@
       </draggable>
     </div>
 
-    <div>以下、別のコンポーネント</div>
+    <div>以下、別のコンポーネント（元々、親コンポーネントのデータだから意味が無いような）</div>
 
     <div>
       <draggable v-model="list" v-on:update="onUpdate">
